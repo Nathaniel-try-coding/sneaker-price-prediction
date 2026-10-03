@@ -1,0 +1,6 @@
+# Full scraped dataset: not republished, only the 50-row sample is shared
+sneakers.csv
+
+# Python
+__pycache__/
+*.pyc
